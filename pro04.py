@@ -1,7 +1,7 @@
 # pro04.py
 viji,sen=map(str,input().split())
 wave=0
-if len(bhav)>len(sen):
+if len(viji)>len(sen):
   viji,sen=sen,mah
 i=0
 while i<len(viji):
